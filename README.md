@@ -2,7 +2,7 @@
 -  I'm a MERN stack developer 
 -  I’m currently learning TypeScript
 - Open to collaborate
-- 📫 You can contact me on my LinkedIn, Twitter
+- You can contact me on my LinkedIn, Twitter
 - Or send a mail at: jainAkshat_02@protonmail.com
 
 
